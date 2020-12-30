@@ -6,7 +6,8 @@
 
 # [PlayStore Link](https://play.google.com/store/apps/details?id=com.BharatTiwari.captain_helper)
   
- ![PlayStore](https://snaphappymom.com/wp-content/uploads/2016/01/Google-Play-Store-Icon.png)
+ <a href="https://play.google.com/store/apps/details?id=com.BharatTiwari.captain_helper" rel="some text">![Foo](https://snaphappymom.com/wp-content/uploads/2016/01/Google-Play-Store-Icon.png)</a>
+
 
 
 
