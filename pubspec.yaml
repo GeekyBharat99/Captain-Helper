@@ -37,8 +37,8 @@ dependencies:
   photo_view: ^0.10.2
   image_gallery_saver: ^1.6.2
   share: ^0.6.5+4
-  contactus: ^1.1.7
-  flutter_automation: ^1.4.0
+  contactus: ^1.2.0
+  flutter_automation: ^2.0.0
   connectivity: ^2.0.1
   progressive_image: ^1.0.1
   flutter_local_notifications: ^3.0.1+3
